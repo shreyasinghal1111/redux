@@ -1,6 +1,8 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I have used a bun package here
+Bun is a fast Javascript package manager.It is an npm-compatible package manager.
 
 Currently, two official plugins are available:
 
